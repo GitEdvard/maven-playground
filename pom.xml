@@ -19,6 +19,8 @@
         <version>3.9.0</version>
         <configuration>
           <release>17</release>
+          <mainClass>main.java.HelloWorld</mainClass>
+          <layout>JAR</layout>
         </configuration>
       </plugin>
     </plugins>
